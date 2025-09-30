@@ -20,7 +20,7 @@ conn.close()
 ### 🎯 Instructions:
 
 1. Create a Connection.
-2. Replace the empty `cursor.execute("")` with the correct **SQL SELECT query**.
+2. Write **SQL SELECT query**.
 3. Fetch all results using the appropriate cursor method.
 4. Print each row to display the table data.
 
