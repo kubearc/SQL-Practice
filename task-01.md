@@ -23,3 +23,11 @@ conn.close()
 2. Replace the empty `cursor.execute("")` with the correct **SQL SELECT query**.
 3. Fetch all results using the appropriate cursor method.
 4. Print each row to display the table data.
+
+### Example Output:
+
+```
+(1, 'John Doe', '123 Main Street', 110001)
+(2, 'Jane Smith', '456 Park Avenue', 220002)
+(3, 'Alice Johnson', '789 Green Road', 330003)
+```
