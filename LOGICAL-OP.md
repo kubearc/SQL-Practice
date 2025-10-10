@@ -1,3 +1,17 @@
+## Table: Employees
+
+| EmpID | Name   | Department | Salary | City      |
+|-------|--------|------------|--------|-----------|
+| 1     | Ramesh | HR         | 40000  | Delhi     |
+| 2     | Priya  | IT         | 55000  | Mumbai    |
+| 3     | Anil   | Finance    | 60000  | Bangalore |
+| 4     | Neha   | IT         | 45000  | Delhi     |
+| 5     | Suresh | HR         | 30000  | Chennai   |
+| 6     | Meena  | IT         | 70000  | Pune      |
+
+---
+
+
 ### **Task 1** - Employees who work in the IT department and have salary greater than 50,000
 
 **Expected Output:**
